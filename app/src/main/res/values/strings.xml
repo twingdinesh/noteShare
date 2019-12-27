@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PDF</string>
+    <string-array name="collage">
+        <item>P.S.N.A collage of engineering and technology</item>
+        <item>thiyagarajar collage of engineering and technology</item>
+        <item>velammal collage of engineering and technology</item>
+        <item>P.S.N.A collage of engineering and technology</item>
+        <item>P.S.N.A collage of engineering and technology</item>
+    </string-array>
+    <string-array name="dept">
+        <item>mechanical engineering</item>
+        <item>civil engineering</item>
+        <item>computer science engineering</item>
+        <item>electronics and communication engineering</item>
+        <item>electrical and electronics engineering</item>
+        <item>information technolgy</item>
+    </string-array>
+    <string-array name="subject">
+        <item>subject1</item>
+        <item>subject1</item>
+        <item>subject1</item>
+        <item>subject1</item>
+        <item>subject1</item>
+        <item>subject1</item>
+        <item>subject1</item>
+        <item>subject1</item>
+        <item>subject1</item>
+        <item>subject1</item>
+        <item>subject1</item>
+
+    </string-array>
+</resources>
